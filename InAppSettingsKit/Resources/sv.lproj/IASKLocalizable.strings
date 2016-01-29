@@ -7,5 +7,5 @@
  */
 
 
-"Privacy" = "Systemets “Inställningar” för VK"; // iOS 8+ Privacy cell: title
+"Privacy" = "Enhetens “Inställningar” för VK"; // iOS 8+ Privacy cell: title
 "Open in Settings app" = ""; // iOS 8+ Privacy cell: subtitle 
